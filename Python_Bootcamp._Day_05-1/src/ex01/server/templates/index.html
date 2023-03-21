@@ -1,0 +1,10 @@
+{% for file in files %}
+<audio controls>
+    <source src="{{ url_for('serve_file', filename=file) }}" type="{{ mimetypes.guess_type(file)[0] }}">
+</audio>
+{% endfor %}
+
+<form method="POST" action="{{ url_for('upload') }}" enctype="multipart/form-data">
+    <input type="file" name="file">
+    <button type="submit">Upload</button>
+</form>

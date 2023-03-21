@@ -1,0 +1,8 @@
+run
+script.sh
+
+test
+python3 screwdriver.py upload song1.mp3
+python3 screwdriver.py upload song2.mp3
+python3 screwdriver.py upload song3.mp3
+python3 screwdriver.py list

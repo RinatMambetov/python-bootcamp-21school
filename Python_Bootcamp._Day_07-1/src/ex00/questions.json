@@ -1,0 +1,92 @@
+[
+  {
+    "question": "You see a stray cat on the street. What do you do?",
+    "responses": [
+      "Ignore it and keep walking.",
+      "Stop and pet it.",
+      "Try to catch it and find its owner.",
+      "Kick it and keep walking."
+    ]
+  },
+  {
+    "question": "You come across a wallet lying on the ground. What do you do?",
+    "responses": [
+      "Leave it there and keep walking.",
+      "Pick it up and try to find the owner.",
+      "Take the money and leave the wallet.",
+      "Take the wallet and all of its contents."
+    ]
+  },
+  {
+    "question": "You witness someone stealing from a store. What do you do?",
+    "responses": [
+      "Ignore it and keep walking.",
+      "Report it to the store manager.",
+      "Confront the person and try to get them to stop.",
+      "Steal something yourself while no one is looking."
+    ]
+  },
+  {
+    "question": "You are in a crowded room and someone spills a drink on you. What do you do?",
+    "responses": [
+      "Laugh it off and go change your clothes.",
+      "Get angry and yell at the person.",
+      "Ignore it and continue with your conversation.",
+      "Attack the person and start a fight."
+    ]
+  },
+  {
+    "question": "You have a deadline for a project at work, but your friend wants you to go out for drinks. What do you do?",
+    "responses": [
+      "Tell your friend you can't go and stay at work.",
+      "Go out for one drink and then return to work.",
+      "Go out for a few drinks and then return to work later.",
+      "Go out for drinks and forget about the deadline."
+    ]
+  },
+  {
+    "question": "You see a homeless person asking for money. What do you do?",
+    "responses": [
+      "Ignore them and keep walking.",
+      "Give them some spare change.",
+      "Buy them food or a drink.",
+      "Tell them to get a job and stop begging."
+    ]
+  },
+  {
+    "question": "You are in a heated argument with someone. What do you do?",
+    "responses": [
+      "Try to listen to their side and find a compromise.",
+      "Yell and scream until they give in.",
+      "Walk away and ignore them.",
+      "Physically attack them."
+    ]
+  },
+  {
+    "question": "You're watching TV. Suddenly you realize there's a wasp crawling on your arm. What do you do?",
+    "responses": [
+      "Stay still and let it crawl away.",
+      "Brush it off gently.",
+      "Kill it with your other hand.",
+      "Scream and panic."
+    ]
+  },
+  {
+    "question": "You're at a party and someone tells a racist joke. What do you do?",
+    "responses": [
+      "Laugh and pretend you found it funny.",
+      "Say nothing and walk away.",
+      "Tell them it's not okay to make jokes like that.",
+      "Tell an even more offensive joke."
+    ]
+  },
+  {
+    "question": "You're in a desert walking along in the sand when all of the sudden you look down, and you see a tortoise. It's crawling toward you. You reach down and you flip the tortoise over on its back. What do you do?",
+    "responses": [
+      "Nothing, let it crawl away.",
+      "Help it to turn over and walk away.",
+      "Stomp on it and watch it die.",
+      "Walk away and forget about it."
+    ]
+  }
+]
